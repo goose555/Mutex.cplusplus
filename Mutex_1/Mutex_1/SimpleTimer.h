@@ -1,7 +1,5 @@
 #pragma once
 #include <iostream>
-#include <vector>
-#include <numeric>
 #include <chrono>
 
 class SimpleTimer
